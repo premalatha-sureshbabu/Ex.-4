@@ -1,6 +1,6 @@
 # Exno.4-Scenario-Based Report Development Utilizing Diverse Prompting Techniques
 ### DATE:                                                                            
-### REGISTER NUMBER : 
+### REGISTER NUMBER : 212222230112
 ### Aim: To design an AI-powered chatbot that assists customers in resolving issues related to product troubleshooting, order tracking, and general inquiries. The chatbot should handle various customer queries efficiently while maintaining a conversational and user-friendly tone. In this experiment, we will employ different prompt patterns to guide the development process of the chatbot, ranging from basic task-oriented prompts to more complex, persona-driven prompts. Case study 2 with Comparative Analysis Prompt, Comparative Analysis Prompt and Prompt Size Limitations
 
 ### Explanation - Any one use case from Unit 5 and generate the report for that with the unit 2 Prompt type
@@ -34,7 +34,7 @@ Persona and Context Prompts:
 •	The user interface should be intuitive and provide real-time data on machine performance, energy usage, and alerts.
 •	The system should convey reliability and ease of use, with minimal training required for operators.
 
-### Scenario Prompt:
+# Scenario Prompt:
 "A customer has purchased a smart thermostat and is having trouble setting it up. They contact the chatbot for assistance. The customer says: 'I’ve just received my smart thermostat, but I’m not sure how to install it. Can you help me set it up?'
 
 ### 1.Prompt Type: Experiential Perspective Prompt
@@ -74,5 +74,6 @@ Expected Output:
 
 
 
-# Result: Thus the Prompts were exected succcessfully.
+# Result: 
+Thus the Prompts were exected succcessfully.
 
